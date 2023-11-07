@@ -10,7 +10,6 @@ This PowerShell script allows users to monitor the memory usage of a specific pr
 - Periodic monitoring of memory usage.
 - Data is logged to a CSV file with a timestamp.
 
-... (rest of the PowerShell script content)
 
 ## Node.js Script
 
@@ -23,6 +22,5 @@ This Node.js script monitors the memory usage of specified processes and sends t
 - Logging data to local files.
 - Repeating the monitoring at specified intervals.
 
-... (rest of the Node.js script content)
 
 These scripts provide a means to monitor and log memory usage data for specific processes, with the PowerShell script focusing on local data logging and the Node.js script enabling communication with Google Chat. Users can choose the script that best fits their needs for memory monitoring and data handling.
