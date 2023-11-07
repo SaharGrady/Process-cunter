@@ -4,7 +4,7 @@ const axios = require('axios');
 
 const processIds = [5380 , 31028];  // {5380 =Risco & 31028 =VC}
 
-const webhookUrl = 'https://chat.googleapis.com/v1/spaces/AAAAJI2_FP4/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=3V9mOZQ9CvVkbEuTgttrmT88SrsoxmGpmDetivCVlIw';
+const webhookUrl = 'URL';
 
 function getCurrentTimestamp() {
   const now = new Date();
