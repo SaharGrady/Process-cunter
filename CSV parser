@@ -5,7 +5,7 @@ const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const csv = require('csv-parser');
 
 const processIds = [5380, 31028];  //process id 
-//send a webhook to google chal
+//send a webhook to google chat
 const webhookUrl =
   'YOUR_URL ';
 
