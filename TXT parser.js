@@ -2,7 +2,7 @@ onst { exec } = require('child_process');
 const fs = require('fs');
 const axios = require('axios');
 
-const processIds = [5380 , 31028];  // {5380 =Risco & 31028 =VC}
+const processIds = [5380 , 31028];  // 
 
 const webhookUrl = 'URL';
 
